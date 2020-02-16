@@ -16,8 +16,8 @@ Confident user PS
 [https://github.com/AndreyHancharou/love-triangle/tree/master/src](https://github.com/AndreyHancharou/love-triangle/tree/master/src)
 
 ## Experience
-* test tasks on courses [Сodecademy](https://www.codecademy.com/): Introdaction to HTML, Learn CSS
-* test tasks on courses [The Rolling Scopes School](https://school.rollingscopes.com/)
+* test tasks on courses [Сodecademy](https://www.codecademy.com/profiles/andreyhancharou): Introdaction to HTML, Learn CSS
+* test tasks on courses «JavaScript/Front-end» [The Rolling Scopes School](https://rs.school/js/)
 * test tasks on courses [GeekBrains.ru](https://geekbrains.ru/)
 
 ## Education
@@ -26,8 +26,8 @@ Confident user PS
 2. Magistracy: The Belarusian Trade and Economics University of Consumer Cooperatives, master's degree in management and economics
 
 ### Courses
-1. [The Rolling Scopes School](https://school.rollingscopes.com/)
-2. [Сodecademy](https://www.codecademy.com/)
+1. [The Rolling Scopes School](https://rs.school/js/)
+2. [Сodecademy](https://www.codecademy.com/profiles/andreyhancharou)
     * Introdaction to HTML (complete 100%)
     * Learn CSS (complete 100%)
 3. [GeekBrains.ru](https://geekbrains.ru/)
