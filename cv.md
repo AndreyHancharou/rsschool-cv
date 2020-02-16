@@ -1,6 +1,6 @@
 # Resume  
-Andrey Hancharou
+**Andrey Hancharou**
 
-Contacts
+## Contacts
 *tel.:* +375 29 3795783  
 *viber:* +375 29 3795783
